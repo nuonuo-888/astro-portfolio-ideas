@@ -15,7 +15,7 @@ All template source code is hosted under the <a href="https://github.com/nuonuo-
 
 - **Demo**: <a href="https://portfolio-1gocudkm.edgeone.app" target="_blank" rel="noopener noreferrer">https://portfolio-1gocudkm.edgeone.app</a>
 - **GitHub**: <a href="https://github.com/nuonuo-888/portfolio" target="_blank" rel="noopener noreferrer">https://github.com/nuonuo-888/portfolio</a>
-- **One-Click Deploy**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fportfolio&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
+- **One-Click Deploy**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fportfolio&output-directory=dist&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
   <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1764073478676-lxFh.png" alt="Portfolio" width="800" />
 
 ### 3. Beaty Portfolio
