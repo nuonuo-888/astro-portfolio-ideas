@@ -11,12 +11,12 @@
 - **一键部署**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fev0-astro-theme&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
   <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1764073425441-fpkk.png" alt="EV0 Astro Theme" width="800" />
 
-### 2. Portfolio 1gocudkm
+### 2. Portfolio
 
 - **Demo**: <a href="https://portfolio-1gocudkm.edgeone.app" target="_blank" rel="noopener noreferrer">https://portfolio-1gocudkm.edgeone.app</a>
-- **GitHub**: <a href="https://github.com/nuonuo-888/portfolio-1gocudkm" target="_blank" rel="noopener noreferrer">https://github.com/nuonuo-888/portfolio-1gocudkm</a>
-- **一键部署**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fportfolio-1gocudkm&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
-  <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1764073478676-lxFh.png" alt="Portfolio 1gocudkm" width="800" />
+- **GitHub**: <a href="https://github.com/nuonuo-888/portfolio" target="_blank" rel="noopener noreferrer">https://github.com/nuonuo-888/portfolio</a>
+- **一键部署**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fportfolio&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
+  <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1764073478676-lxFh.png" alt="Portfolio" width="800" />
 
 ### 3. Beaty Portfolio
 
@@ -154,8 +154,8 @@
 ### 22. Astro Theme Pure
 
 - **Demo**: <a href="https://astro-theme-pure-dop5ow90.edgeone.app/" target="_blank" rel="noopener noreferrer">https://astro-theme-pure-dop5ow90.edgeone.app/</a>
-- **GitHub**: <a href="https://github.com/nuonuo-888/astro-theme-pure-dop5ow90" target="_blank" rel="noopener noreferrer">https://github.com/nuonuo-888/astro-theme-pure-dop5ow90</a>
-- **一键部署**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fastro-theme-pure-dop5ow90&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
+- **GitHub**: <a href="https://github.com/nuonuo-888/astro-theme-pure" target="_blank" rel="noopener noreferrer">https://github.com/nuonuo-888/astro-theme-pure</a>
+- **一键部署**: <a href="https://edgeone.ai/pages/new?template=https%3A%2F%2Fgithub.com%2Fnuonuo-888%2Fastro-theme-pure&output-directory=dist%2Fclient&build-command=npm+run+build&install-command=npm+install&origin_from=childtom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Deploy%20to-EdgeOne-blue?style=for-the-badge" alt="Deploy to EdgeOne" /></a>
   <img src="https://cdnstatic.tencentcs.com/edgeone/pages/assets/1764129430509-BHVg.png" alt="Astro Theme Pure" width="800" />
 
 ### 23. Astro Sphere
